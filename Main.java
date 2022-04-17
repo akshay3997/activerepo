@@ -13,7 +13,7 @@ for(int i=0;i<=N;i++){
          sum1=sum1+i;
     }
 else{
-    sum2=sum2+i;
+    sum2=sum2;
     }
 }
 
