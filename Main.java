@@ -18,5 +18,5 @@ else{
 }
 
         System.out.println(sum1+sum2);
-    }hihidcniuh
+    }
 }
