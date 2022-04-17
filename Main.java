@@ -10,7 +10,7 @@ public class Main {
     int N=sc.nextInt();
 for(int i=0;i<=N;i++){
     if(i%2!=0){
-         sum1=sum1+i;
+         sum1=sum1;
     }
 else{
     sum2=sum2;
