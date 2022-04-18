@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Please Enter Character");
         Scanner sc=new Scanner(System.in);
+<<<<<<< HEAD
    int sum1=2;
    int sum2=0;
     int N=sc.nextInt();
